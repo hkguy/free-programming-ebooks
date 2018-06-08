@@ -22,6 +22,9 @@ LaTeX Beginner's Guide
 ### Qt
 Mastering Qt 5
 
+### Robot
+Effective Robotics Programming with ROS
+
 ### computer vision
 Learning OpenCV 3 Computer Vision with Python
 

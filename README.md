@@ -37,9 +37,6 @@ Principles of Data Science
 ### machine learning 
 Practical Machine Learning
 
-### vue.js
-Learning Vue.js
-
 Building Machine Learning Projects with TensorFlow
 
 Python Machine Learning Cookbook
@@ -50,6 +47,9 @@ Bayesian Analysis with Python
 Learning Python
 
 Learning Python Application Development
+
+### vue.js
+Learning Vue.js
 
 
 

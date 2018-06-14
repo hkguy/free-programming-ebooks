@@ -14,7 +14,7 @@ URL:https://www.packtpub.com/packt/offers/free-learning
 ## Book list
 
 ### AI
-  Artificial Intelligence with Python
+Artificial Intelligence with Python
 
 ### LaTeX
 LaTeX Beginner's Guide
@@ -26,7 +26,7 @@ Mastering Qt 5
 Effective Robotics Programming with ROS
 
 ### blockchain
-mastering blockchain
+Mastering Blockchain
 
 ### computer vision
 Learning OpenCV 3 Computer Vision with Python
@@ -36,6 +36,9 @@ Principles of Data Science
 
 ### machine learning 
 Practical Machine Learning
+
+### vue.js
+Learning Vue.js
 
 Building Machine Learning Projects with TensorFlow
 

@@ -25,6 +25,9 @@ Mastering Qt 5
 ### Robot
 Effective Robotics Programming with ROS
 
+### blockchain
+mastering blockchain
+
 ### computer vision
 Learning OpenCV 3 Computer Vision with Python
 

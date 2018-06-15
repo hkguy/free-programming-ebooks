@@ -43,6 +43,8 @@ Python Machine Learning Cookbook
 
 Bayesian Analysis with Python
 
+Machine Learning with R
+
 ### python 
 Learning Python
 

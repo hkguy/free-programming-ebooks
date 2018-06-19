@@ -22,6 +22,9 @@ LaTeX Beginner's Guide
 ### Qt
 Mastering Qt 5
 
+### .NET Framework
+.NET Framework 4.5 Expert Programming Cookbook
+
 ### Robot
 Effective Robotics Programming with ROS
 

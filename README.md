@@ -28,16 +28,16 @@ Mastering Qt 5
 ### Robot
 Effective Robotics Programming with ROS
 
-### blockchain
+### Blockchain
 Mastering Blockchain
 
-### computer vision
+### Computer Vision
 Learning OpenCV 3 Computer Vision with Python
 
-### data science
+### Data Science
 Principles of Data Science
 
-### machine learning 
+### Machine Learning 
 Practical Machine Learning
 
 Building Machine Learning Projects with TensorFlow
@@ -48,14 +48,14 @@ Bayesian Analysis with Python
 
 Machine Learning with R
 
-### python 
+### Python 
 Learning Python
 
 Learning Python Application Development
 
 Pandas Cookbook
 
-### vue.js
+### Vue.js
 Learning Vue.js
 
 ### Java

@@ -53,6 +53,8 @@ Learning Python
 
 Learning Python Application Development
 
+Pandas Cookbook
+
 ### vue.js
 Learning Vue.js
 

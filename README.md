@@ -11,55 +11,51 @@ Official explanation:A new free programming tutorial book every day!
 Develop new tech skills and knowledge with Packt Publishing’s daily free learning giveaway.
 URL:https://www.packtpub.com/packt/offers/free-learning
 
-## Book list
+> ## Book list
+>> ### AI
+>>> Artificial Intelligence with Python
 
-### AI
-Artificial Intelligence with Python
+>>### LaTeX
+>>>LaTeX Beginner's Guide
 
-### LaTeX
-LaTeX Beginner's Guide
+>>### Qt
+>>>Mastering Qt 5
 
-### Qt
-Mastering Qt 5
+>>### .NET Framework
+>>>.NET Framework 4.5 Expert Programming Cookbook
 
-### .NET Framework
-.NET Framework 4.5 Expert Programming Cookbook
+>>### Robot
+>>>Effective Robotics Programming with ROS
 
-### Robot
-Effective Robotics Programming with ROS
+>>### Blockchain
+>>>Mastering Blockchain
 
-### Blockchain
-Mastering Blockchain
+>>### Computer Vision
+>>>Learning OpenCV 3 Computer Vision with Python
 
-### Computer Vision
-Learning OpenCV 3 Computer Vision with Python
+>>### Data Science
+>>>Principles of Data Science
 
-### Data Science
-Principles of Data Science
+>>### Machine Learning 
+>>>Practical Machine Learning
 
-### Machine Learning 
-Practical Machine Learning
+>>>Building Machine Learning Projects with TensorFlow
 
-Building Machine Learning Projects with TensorFlow
+>>>Python Machine Learning Cookbook
 
-Python Machine Learning Cookbook
+>>>Bayesian Analysis with Python
 
-Bayesian Analysis with Python
+>>>Machine Learning with R
 
-Machine Learning with R
+>>### Python 
+>>>Learning Python
 
-### Python 
-Learning Python
+>>>Learning Python Application Development
 
-Learning Python Application Development
+>>>Pandas Cookbook
 
-Pandas Cookbook
+>>### Vue.js
+>>>Learning Vue.js
 
-### Vue.js
-Learning Vue.js
-
-### Java
-Mastering Java 9
-
-
-
+>>### Java
+>>>Mastering Java 9
